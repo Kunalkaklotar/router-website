@@ -95,11 +95,11 @@ header nav .navLinks a {
   color: white;
   font-weight: 400;
   text-align: right;
-  margin-right: 150px;
+  margin: 250px 150px 0 0;
 }
 
 .home-section .overlay p {
-  width: 55%;
+  width: 50%;
   color: white;
   margin: 20px auto 40px;
   font-size: 17px;
