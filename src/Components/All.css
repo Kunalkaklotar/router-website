@@ -146,6 +146,55 @@ header nav .navLinks a {
   height: 300px;
 }
 
+.footer{
+  width: 100%;
+  padding: 40px 30px;
+  background-color: #F5F5F5;
+}
+.d-flex{
+  display: flex;
+  flex-wrap: nowrap;
+
+}
+.w_50{
+  width: 50%;
+}
+.w_33{
+width: 33%;
+}
+.w_50 h1{
+  font-size: 18px;
+  color: rgb(103, 103, 103);
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+.w_50 h2{
+  font-size: 15px;
+  font-weight: 400;
+  color: rgb(154, 154, 154);
+  padding-bottom: 25px;
+
+}
+.mail{
+  color: rgb(154, 154, 154);
+  padding-bottom: 8px;
+}
+hr{
+  width: 70%;
+  height: 3px;
+  background-color: black;
+}
+h4{
+  font-size: 17px ;
+  font-weight: 400;
+  padding: 5px 0px;
+  color: rgb(125, 125, 125);
+  cursor: pointer;
+}
+h4:hover{
+  color: #52D5E9;
+}
+
 /* product details section */
 .productDetails-section .container {
   display: flex;
